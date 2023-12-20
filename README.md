@@ -1,2 +1,2 @@
-# example_git_pull
+# repository to practice gitpull
 To practice the "git pull" command
